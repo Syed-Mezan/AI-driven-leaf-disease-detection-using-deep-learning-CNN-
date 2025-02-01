@@ -1,14 +1,22 @@
-# AI-driven-leaf-disease-detection-using-deep-learning-CNN-
-AI-Driven Plant Disease Detection: This project uses CNNs to identify plant diseases, providing a scalable solution for various species. Tested with tomato leaf disease data, it helps farmers take timely action to improve crop health and yield.
+# 🌿 Sky Crop Innovators – AI-Powered Crop Disease Detection Using Drones 🚀
 
-Key Features
+## **🌟 Overview**
+Sky Crop Innovators is an **AI-driven solution** that integrates **drones and deep learning** to detect plant diseases in real time. This project focuses on automating disease detection in **tobacco crops** and **apple orchards** using **YOLOv9** and **CNN models**.
 
--Generalized Plant Disease Detection: Built to classify diseases across multiple plant species with high precision.
+## **🔹 Key Features**
+✅ **Deep Learning Models** – Uses CNN & YOLOv9 for image-based disease detection  
+✅ **Drone Integration** – AI-powered UAV monitoring system  
+✅ **Mobile & Web Dashboard** – Real-time alerts and recommendations  
+✅ **Scalability** – Can be adapted for multiple crops  
 
--Deep Learning Framework: Leveraging CNNs to process plant leaf images for accurate disease diagnosis.
+## **📂 Project Structure**
+- **models/** – Trained AI models (YOLOv9, CNN)  
+- **scripts/** – Python scripts for training and inference  
+- **drone-integration/** – Scripts for drone data collection & deployment  
+- **web-app/** – Web-based dashboard for visualization  
 
--Scalable Design: Future-ready architecture that can integrate with drone systems for real-time field monitoring.
-
--Actionable Insights: Provides detailed recommendations for managing and preventing detected plant diseases.
-
+## **🚀 How to Use**
+### 📌 **1. Install Dependencies**
+```bash
+pip install -r requirements.txt
 
