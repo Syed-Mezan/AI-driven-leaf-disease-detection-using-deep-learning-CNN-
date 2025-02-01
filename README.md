@@ -10,13 +10,20 @@ Sky Crop Innovators is an **AI-driven solution** that integrates **drones and de
 ✅ **Scalability** – Can be adapted for multiple crops  
 
 ## **📂 Project Structure**
-- **models/** – Trained AI models (YOLOv9, CNN)  
+- **models/** – Trained AI models (YOLOv11, CNN)  
 - **scripts/** – Python scripts for training and inference  
 - **drone-integration/** – Scripts for drone data collection & deployment  
 - **web-app/** – Web-based dashboard for visualization  
 
-## **🚀 How to Use**
-### 📌 **1. Install Dependencies**
-```bash
-pip install -r requirements.txt
+## 📸 Project Images
+
+### 🔹 AI Model Detecting Crop Disease  
+![AI Detection](https://raw.githubusercontent.com/your-username/Sky-Crop-Innovators/main/images/detection.jpg)
+
+### 🔹 Drone Monitoring System  
+![Drone in Action](https://raw.githubusercontent.com/your-username/Sky-Crop-Innovators/main/images/drone.jpg)
+
+### 🔹 Web Dashboard for Disease Prediction  
+![Web Dashboard](https://raw.githubusercontent.com/your-username/Sky-Crop-Innovators/main/images/dashboard.jpg)
+
 
