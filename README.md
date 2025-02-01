@@ -1,7 +1,7 @@
 # 🌿 Sky Crop Innovators – AI-Powered Crop Disease Detection Using Drones 🚀
 
 ## **🌟 Overview**
-Sky Crop Innovators is an **AI-driven solution** that integrates **drones and deep learning** to detect plant diseases in real time. This project focuses on automating disease detection in **tobacco crops** and **apple orchards** using **YOLOv9** and **CNN models**.
+Sky Crop Innovators is an **AI-driven solution** that integrates **drones and deep learning** to detect plant diseases in real time. This project focuses on automating disease detection in **tobacco crops** and **apple orchards** using **YOLOv11**.
 
 ## **🔹 Key Features**
 ✅ **Deep Learning Models** – Uses CNN & YOLOv9 for image-based disease detection  
